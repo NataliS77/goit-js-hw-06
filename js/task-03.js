@@ -42,3 +42,8 @@ console.log(listEl);
 
 // listEl.insertAdjacentHTML("afterbegin", makeImegesRows)
 // console.log(listEl)
+
+
+
+
+

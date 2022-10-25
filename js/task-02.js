@@ -60,3 +60,7 @@ console.log(listEl)
 
 // listEl.append(itemEl, itemEl1, itemEl2, itemEl3, itemEl4, itemEl5)
 // console.log(listEl)
+
+
+
+

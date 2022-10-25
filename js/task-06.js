@@ -11,3 +11,15 @@ textInput.addEventListener('blur',  () =>{
     }
 
 });
+// textInput.addEventListener('blur', function () {
+//     if (textInput.textContent.length == textInput.dataset.length) {
+
+//        return textInput.classList.add('valid');
+
+//     }
+//        return textInput.classList.add('invalid');
+
+// });
+
+console.log(textInput.classList)
+

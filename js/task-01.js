@@ -8,3 +8,4 @@ for (let i = 0; i < itemEl.length; i += 1){
     console.log(`Category: ${itemEl[i].querySelector('h2').textContent}`)
     console.log(`Eltments: ${itemEl[i].querySelectorAll('li').length}`)
 }
+
